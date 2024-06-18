@@ -1,9 +1,5 @@
 ### Olá meu nome é **Bruno** 
-- Estou em Busca de estágio na áreas de dados com objetivo de se tornar analista de dados.
-- cursando Gestão da informarão na UFPR
-- trabalho desenvolvendo de site em WordPress, SEO e gestão de tráfego
-- Sites que desenvolvi: https://www.desentupidoracuritiba24h.com.br https://www.banheiroquimicocuritiba.com.br 
-
+Programador júnior com experiência prática em desenvolvimento de software e marketing digital. Desenvolvi um programa em Python para automação de OCR e organização de documentos, otimizando processos na Universidade Federal do Paraná. Como freelancer, criei sites e gerenciei campanhas de SEO e tráfego, estruturando todo o marketing da RexTubo Serviços. Habilidades em Python, SQL e ferramentas de marketing digital (Google Ads, Google Analytics, WordPress). Graduação em Gestão da Informação pela UFPR, com ênfase em Análise de Dados e Mineração de Dados.
 
 <div align="center">
   <a href="https://github.com/Bruno-P-d-E">

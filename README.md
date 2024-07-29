@@ -1,19 +1,19 @@
 ### Olá meu nome é **Bruno** 
 
-Programador júnior com experiência prática em desenvolvimento de software e marketing digital. Desenvolvi um programa em Python para automação de OCR e organização de documentos, otimizando processos na Universidade Federal do Paraná. Como freelancer, criei sites e gerenciei campanhas de SEO e tráfego, estruturando todo o marketing da RexTubo Serviços. Habilidades em Python, SQL e ferramentas de marketing digital (Google Ads, Google Analytics, WordPress). Graduação em Gestão da Informação pela UFPR, com ênfase em Análise de Dados e Mineração de Dados.
+Junior programmer with practical experience in software development and digital marketing. I developed a Python program for OCR automation and document organization, optimizing processes at the Federal University of Paraná. As a freelancer, I created websites and managed SEO and traffic campaigns, structuring the entire marketing for RexTubo Serviços. Skills in Python, SQL, and digital marketing tools (Google Ads, Google Analytics, WordPress). Bachelor's degree in Information Management from UFPR, with a focus on Data Analysis and Data Mining.
 
-## HABILIDADES:
-HTML - Básico<br>
-Estatística - Básico<br>
-Python - Intermediário<br>
-SQL - Intermediário<br>
-Análise de Dados - Intermediário<br>
-Google Analytics - Intermediário<br>
-Excel - Avançado<br>
-Google ADS - Avançado<br>
-WordPress - Avançado<br>
-Google Search Console - Avançado<br>
-Google Tag Manager - Avançado<br>
+## Skills:
+HTML - Basic<br>
+Statistics - Basic<br>
+Python - Intermediate<br>
+SQL - Intermediate<br>
+Data Analysis - Intermediate<br>
+Google Analytics - Intermediate<br>
+Excel - Advanced<br>
+Google Ads - Advanced<br>
+WordPress - Advanced<br>
+Google Search Console - Advanced<br>
+Google Tag Manager - Advanced<br>
 
-## IDIOMA
-Inglês- Intermediário
+## LANGUAGE
+English - Intermediate

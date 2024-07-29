@@ -1,6 +1,6 @@
-### Olá meu nome é **Bruno** 
+### Hello! My name is **Bruno** 
 
-Junior programmer with practical experience in software development and digital marketing. I developed a Python program for OCR automation and document organization, optimizing processes at the Federal University of Paraná. As a freelancer, I created websites and managed SEO and traffic campaigns, structuring the entire marketing for RexTubo Serviços. Skills in Python, SQL, and digital marketing tools (Google Ads, Google Analytics, WordPress). Bachelor's degree in Information Management from UFPR, with a focus on Data Analysis and Data Mining.
+I am Junior programmer with practical experience in software development and digital marketing. I developed a Python program for OCR automation and document organization, optimizing processes at the Federal University of Paraná. As a freelancer, I created websites and managed SEO and traffic campaigns, structuring the entire marketing for RexTubo Serviços. Skills in Python, SQL, and digital marketing tools (Google Ads, Google Analytics, WordPress). Bachelor's degree in Information Management from UFPR, with a focus on Data Analysis and Data Mining.
 
 ## Skills:
 HTML - Basic<br>

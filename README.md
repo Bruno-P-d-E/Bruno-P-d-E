@@ -17,3 +17,7 @@ Google Tag Manager - Advanced<br>
 
 ## LANGUAGE
 English - Intermediate
+
+## 📊 Contribution Snake
+
+![snake gif](https://github.com/Bruno-P-d-E/Bruno-P-d-E/blob/output/github-contribution-grid-snake.svg)

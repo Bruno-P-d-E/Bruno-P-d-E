@@ -20,4 +20,6 @@ English - Intermediate
 
 ## 📊 Contribution Snake
 
-![snake gif](https://github.com/Bruno-P-d-E/Bruno-P-d-E/blob/output/github-contribution-grid-snake.svg)
+<div align="center">
+  <img src="https://github.com/Bruno-P-d-E/Bruno-P-d-E/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</div>
